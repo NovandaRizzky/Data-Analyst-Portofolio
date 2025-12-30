@@ -1,14 +1,14 @@
 # Data-Analyst Portofolio
 
-##Tentang Saya  
+## Tentang Saya  
 _Fresh Graduate_ dengan minat pada analisis data dan pengolahan data. Terampil menggunakan _tools_ yang menunjang dalam analisis data seperti Microsoft Excel, Python, R, SQL, dan Looker Studio. Saya siap berkontribusi dalam permasalahan data dan pengambilan keputusan untuk perusahaan berbasis data.
 
-##Skills
+## Skills  
 -Bahasa Inggris dan Bahasa Indonesia
 -Microsoft Office 365, Python, Looker Studio, RStudio, SQL
 
-##Projects
-### 1. Comparison of SMOTE & ADASYN in Optimizing Random Forest Model for Imbalanced Financial Ratio Bankruptcy Prediction
+## Projects  
+### 1. Comparison of SMOTE & ADASYN in Optimizing Random Forest Model for Imbalanced Financial Ratio Bankruptcy Prediction  
 -Dataset : Taiwan Economic Journal 1999-2009 from Kaggle
 -Teknik Optimalisasi : SMOTE & ADASYN
 -Evaluasi : Akurasi, Presisi, _Recall_, F1-Score
