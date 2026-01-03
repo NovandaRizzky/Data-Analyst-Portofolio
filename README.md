@@ -1,5 +1,3 @@
-# Data-Analyst Portofolio
-
 ## Tentang Saya  
 _Fresh Graduate_ dengan minat pada analisis data dan pengolahan data. Terampil menggunakan _tools_ yang menunjang dalam analisis data seperti Microsoft Excel, Python, R, SQL, dan Looker Studio. Saya siap berkontribusi dalam permasalahan data dan pengambilan keputusan untuk perusahaan berbasis data.
 
