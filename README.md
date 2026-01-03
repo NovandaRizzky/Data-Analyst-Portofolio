@@ -16,7 +16,7 @@ _Fresh Graduate_ dengan minat pada analisis data dan pengolahan data. Terampil m
 -Dataset : Titanic - _Machine Learning from Disasters_(Kaggle)  
 -Teknik : Machine Learning Model  
 -Tools : Python  
--Accuracy Score : 76%
+-Accuracy Score : 78%
 
 ### 3. Dashboard Aset PT. PLN UP2D Kalselteng  
 Role:  
