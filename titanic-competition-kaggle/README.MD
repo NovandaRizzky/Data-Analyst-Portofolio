@@ -6,7 +6,7 @@ Model yang dibangun langsung dari data mentah pada "Titanic Kaggle Competition" 
 - Data _Cleaning_ dan _Preprocessing_  
 - ADE (Analisis Data Eksploratif)  
 - _Feature Engineering_  
-- _Labelling_ Data  
+- _Encoding_ Data  
 - Membuat Model _Machine Learning_  
 ## Dataset  
 Dataset dapat diakses pada _website_ kaggle berikut https://www.kaggle.com/competitions/titanic dengan mengikuti kompetisinya.  
