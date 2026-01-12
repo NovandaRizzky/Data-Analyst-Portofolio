@@ -1,3 +1,6 @@
+This repository contains the used in the article:
+Comparison of SMOTE and ADASYN in Optimizing Random Forest Model for Imbalanced Financial Ratio Bankruptcy Prediction (Jurnal Teknoinfo, 2025)  
+Paper Link : https://publikasi.teknokrat.ac.id/index.php/teknoinfo/article/view/1056  
 ## Ringkasan Projek  
 Projek ini berfokus pada peningkatan model _machine learning_ pada data kebangkrutan perusahaan yang tidak seimbang. Data yang digunakan dapat diakses pada kaggle dengan judul "Company Bankruptcy Prediction" yang berisikan variabel-variabel keuangan. Variabel target yaitu Bankruptcy? yang bernilai 1 dan 0 mengindikasikan bahwa perusahaan tersebut bangkrut atau tidak. Dimana 1 adalah perusahaan yang bangkrut dan 0 adalah perusahaan yang tidak bangkrut. Permasalahan pada data ini yaitu jumlah perusahaan yang bangkrut jauh lebih sedikit dibandingkan dengan perusahaan yang bangkrut. Hal tersebut membuat model _machine learning_ menjadi lebih sulit untuk memprediksi perusahaan yang bangkrut dibandingkan perusahaan yang tidak bangkrut. Untuk memperbaiki hal ini, Saya ingin meningkatkan model menjadi lebih baik dalam memprediksi perusahaan yang bangkrut dengan teknik SMOTE dan ADASYN.  
 ## Permasalahan  
@@ -18,5 +21,6 @@ SMOTE secara keseluruhan lebih baik dibandingkan ADASYN secara keseluruhan dalam
 - Model dapat dilakukan _hyperparameter tuning_
 - Dapat menggunakan teknik _oversampling_ yang lain seperti Borderline-SMOTE, SVM-SMOTE, dan KMeans-SMOTE. Atau dapat menggunakan teknik _resampling_ yang tidak bergantung pada interpolasi seperti _Generative Adversarial Network_ (GAN) atau alternatif lainnya seperti _undersampling_ dan _cost-sensitive learning_.
 - Variabel yang digunakan selain rasio keuangan dapat dikombinasikan dengan variabel keuangan yang relevan seperti total aset, laba, maupun variabel keuangan lainnya.
+
 ## Author
 Novanda Rizky Ramadhana
