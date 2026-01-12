@@ -1,3 +1,4 @@
+# Company Bankruptcy Prediction  
 This repository contains the code used in the article:  
 Comparison of SMOTE and ADASYN in Optimizing Random Forest Model for Imbalanced Financial Ratio Bankruptcy Prediction (Jurnal Teknoinfo, 2025)  
 Paper Link : https://publikasi.teknokrat.ac.id/index.php/teknoinfo/article/view/1056  
