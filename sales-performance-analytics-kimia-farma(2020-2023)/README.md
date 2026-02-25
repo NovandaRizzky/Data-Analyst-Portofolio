@@ -4,8 +4,7 @@ Dashboard Sales Performance Analytics 2020 - 2023 Kimia Farma
 Dashboard ini menampilkan analisis performa penjualan Kimia Farma selama periode 2020–2023. Analisis dilakukan untuk memahami tren penjualan, performa cabang, serta beberapa indikator bisnis seperti jumlah transaksi dan rating cabang. Melalui dashboard ini, pengguna dapat:  
 - Melihat tren penjualan dari waktu ke waktu  
 - Mengidentifikasi provinsi dan cabang dengan performa terbaik  
-- Menganalisis hubungan antara rating cabang dan jumlah transaksi  
-- Menemukan peluang peningkatan bisnis berdasarkan data historis  
+- Melihat cabang dengan rating penilaian terbaik dengan rating transaksi terendah.  
 Dashboard ini dibuat menggunakan Looker Studio dan data diolah menggunakan BigQuerySQL.  
 ## Tugas  
 - Membuat dashboard EAM PT. PLN UP2D Kalselteng yang dapat diakses oleh vendor maupun staff lain yang mudah dipahami.  
