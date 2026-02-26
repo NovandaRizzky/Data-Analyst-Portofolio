@@ -20,6 +20,8 @@ Data internal Kimia Farma
 - Penjualan dari waktu ke waktu stagnan dengan pola musiman pada bulan Februari mengalami penurunan setiap tahun  
 - Penjualan dari tahun ke tahun stagnan  
 - Total transaksi dan penjualan terbanyak diduduki oleh Jawa Barat  
-- Cabang dengan rating tertinggi dan rating transaksi terendah diduduki oleh Sorong  
+- Cabang dengan rating tertinggi dan rating transaksi terendah diduduki oleh Sorong
+## Dashboard  
+https://lookerstudio.google.com/reporting/8681a40e-6e9b-4096-8e6d-b5dfbff98010  
 ## Author  
 Novanda Rizky Ramadhana
